@@ -1,0 +1,39 @@
+@charset "utf-8";
+body {
+    margin: 0 auto;
+}
+body {
+}
+#bangtong {
+    margin: 0 auto;
+    width: 730px;
+	
+}
+#bangtong #th #dong4 {
+	margin-top: -2px;
+}
+#bangtong #th #dong5 {
+	margin-top: -2px;
+}
+
+
+#dong1 {
+    text-align: center;
+    margin-left: 77px;
+    margin-top: 0px;
+}
+#bangtong #th {
+	 display: flex;
+}
+
+#dong2 {
+    text-align: center;
+    margin-left: 77px;
+}
+img {
+    margin-top: -5px;
+    margin-left: 0px;
+}
+#dong3 {
+    margin-top: -114px;
+}
